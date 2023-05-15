@@ -151,6 +151,6 @@ Si deseas contribuir a este proyecto, puedes enviar un pull request en GitHub. A
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
-
+s
 
 
